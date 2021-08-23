@@ -1,0 +1,11 @@
+.box1 {
+    background-color: blue;
+    width: 80px;
+    height: 80px;
+    border: 10px solid black;
+}
+.box2 {
+    background-color: red;
+    width: 100px;
+    height: 100px;
+}
